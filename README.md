@@ -1,5 +1,5 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=fileagents&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=dracula"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fileagents&layout=compact&card_width=445&hide_border=true&theme=dracula"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=fileagent"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=fileagent"/>
 
 <!--
 **fileagent/faked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
